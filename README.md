@@ -2,4 +2,4 @@
 test
 i am an egg hello
 
-[link](donotread)
+[link](donotread.md)
