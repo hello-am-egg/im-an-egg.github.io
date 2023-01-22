@@ -62,7 +62,7 @@
 		<h2>Currently Reading</h2>
 		<div id=“gr_custom_widget_1673704063”>
 		</div>
-		<script src=“”https://www.goodreads.com/review/custom_widget/56257438.lemo's%20bookshelf:%20currently-reading?cover_position=left&cover_size=small&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1673798621&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
+		<script src=“https://www.goodreads.com/review/custom_widget/56257438.lemo's%20bookshelf:%20currently-reading?cover_position=left&cover_size=small&num_books=5&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1673798621&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
 		<hr>
 		<h2>Up Next</h2>
 		<div id=“gr_custom_container_1673798649”>
